@@ -1,4 +1,4 @@
-# cLCP
+# Contact formulation
 The problem involves contact dynamics<br />
 Problem 1<br />
 <br />
