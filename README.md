@@ -1,6 +1,6 @@
 # Contact formulation
 The problem involves contact dynamics<br />
-Problem 1<br />
+Problem <br />
 <br />
 Since we wish to find the joint reaction forces, the normal reactions at the floor and wall, as well as the link
 accelerations, we make use of the Generalized Augmented Lagrangian approach. We start by writing the 4 joint
