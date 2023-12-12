@@ -1,8 +1,10 @@
 # Contact formulation
 
+The problem involves contact dynamics<br />
+
 ![](https://github.com/Mowbray-R-V/Contact-dynamics-simulation-of-slider-using-LCP-formulation/blob/main/contact%20dynamics%20problem/Q2.JPG)
 ![](https://github.com/Mowbray-R-V/Contact-dynamics-simulation-of-slider-using-LCP-formulation/blob/main/contact%20dynamics%20problem/Q1.JPG)
-The problem involves contact dynamics<br />
+
 Problem <br />
 <br />
 Since we wish to find the joint reaction forces, the normal reactions at the floor and wall, as well as the link
