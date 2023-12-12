@@ -1,4 +1,7 @@
 # Contact formulation
+
+![](https://github.com/Mowbray-R-V/Contact-dynamics-simulation-of-slider-using-LCP-formulation/blob/main/contact%20dynamics%20problem/Q2.JPG)
+
 The problem involves contact dynamics<br />
 Problem <br />
 <br />
